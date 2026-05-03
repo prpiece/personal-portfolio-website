@@ -1,0 +1,16 @@
+{
+  "name": "personal-portfolio-website",
+  "version": "0.1.0",
+  "description": "A modern, responsive portfolio website that showcases a designer's work, skills, and contact information.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "vuejs": "latest",
+    "tailwind-css": "latest",
+    "netlify-cms": "latest"
+  }
+}
